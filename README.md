@@ -54,6 +54,9 @@ In your first terminal, start the Flask web server:
 python app.py
 ```
 Leave this terminal running. It will serve your web application, and a notification should appear allowing you to open the web page in a browser.
+# Test credentials
+test_username = "testuser"
+test_password = "testpass"
 
 ### Terminal 2: Run the Selenium Test
 
