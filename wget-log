@@ -1,0 +1,16 @@
+--2025-06-20 21:38:20--  https://download.mozilla.org/?product=firefox-latest
+Resolving download.mozilla.org (download.mozilla.org)... 52.20.46.226, 54.226.24.6, 35.175.4.5
+Connecting to download.mozilla.org (download.mozilla.org)|52.20.46.226|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.4/win32/en-US/Firefox%20Setup%20139.0.4.exe [following]
+--2025-06-20 21:38:21--  https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.4/win32/en-US/Firefox%20Setup%20139.0.4.exe
+Resolving download-installer.cdn.mozilla.net (download-installer.cdn.mozilla.net)... 146.75.31.19, 2a04:4e42:b::787
+Connecting to download-installer.cdn.mozilla.net (download-installer.cdn.mozilla.net)|146.75.31.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68442784 (65M) [application/x-msdos-program]
+Saving to: ‘index.html?product=firefox-latest’
+
+index.html?product=firefox-latest                    0%[                                                                                                               ]       0  --.-KB/s               index.html?product=firefox-latest                   45%[=================================================>                                                             ]  29.61M   148MB/s               index.html?product=firefox-latest                   92%[=====================================================================================================>         ]  60.54M   151MB/s               index.html?product=firefox-latest                  100%[==============================================================================================================>]  65.27M   153MB/s    in 0.4s    
+
+2025-06-20 21:38:21 (153 MB/s) - ‘index.html?product=firefox-latest’ saved [68442784/68442784]
+
